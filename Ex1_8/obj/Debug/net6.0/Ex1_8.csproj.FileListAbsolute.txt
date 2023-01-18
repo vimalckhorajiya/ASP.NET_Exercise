@@ -1,0 +1,15 @@
+E:\C# Console Apps\Program8\bin\Debug\net6.0\Ex1_8.exe
+E:\C# Console Apps\Program8\bin\Debug\net6.0\Ex1_8.deps.json
+E:\C# Console Apps\Program8\bin\Debug\net6.0\Ex1_8.runtimeconfig.json
+E:\C# Console Apps\Program8\bin\Debug\net6.0\Ex1_8.dll
+E:\C# Console Apps\Program8\bin\Debug\net6.0\Ex1_8.pdb
+E:\C# Console Apps\Program8\obj\Debug\net6.0\Ex1_8.csproj.AssemblyReference.cache
+E:\C# Console Apps\Program8\obj\Debug\net6.0\Ex1_8.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Console Apps\Program8\obj\Debug\net6.0\Ex1_8.AssemblyInfoInputs.cache
+E:\C# Console Apps\Program8\obj\Debug\net6.0\Ex1_8.AssemblyInfo.cs
+E:\C# Console Apps\Program8\obj\Debug\net6.0\Ex1_8.csproj.CoreCompileInputs.cache
+E:\C# Console Apps\Program8\obj\Debug\net6.0\Ex1_8.dll
+E:\C# Console Apps\Program8\obj\Debug\net6.0\refint\Ex1_8.dll
+E:\C# Console Apps\Program8\obj\Debug\net6.0\Ex1_8.pdb
+E:\C# Console Apps\Program8\obj\Debug\net6.0\Ex1_8.genruntimeconfig.cache
+E:\C# Console Apps\Program8\obj\Debug\net6.0\ref\Ex1_8.dll

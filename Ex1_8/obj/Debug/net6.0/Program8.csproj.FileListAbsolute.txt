@@ -1,0 +1,15 @@
+E:\C# Console Apps\Program8\bin\Debug\net6.0\Program8.exe
+E:\C# Console Apps\Program8\bin\Debug\net6.0\Program8.deps.json
+E:\C# Console Apps\Program8\bin\Debug\net6.0\Program8.runtimeconfig.json
+E:\C# Console Apps\Program8\bin\Debug\net6.0\Program8.dll
+E:\C# Console Apps\Program8\bin\Debug\net6.0\Program8.pdb
+E:\C# Console Apps\Program8\obj\Debug\net6.0\Program8.csproj.AssemblyReference.cache
+E:\C# Console Apps\Program8\obj\Debug\net6.0\Program8.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Console Apps\Program8\obj\Debug\net6.0\Program8.AssemblyInfoInputs.cache
+E:\C# Console Apps\Program8\obj\Debug\net6.0\Program8.AssemblyInfo.cs
+E:\C# Console Apps\Program8\obj\Debug\net6.0\Program8.csproj.CoreCompileInputs.cache
+E:\C# Console Apps\Program8\obj\Debug\net6.0\Program8.dll
+E:\C# Console Apps\Program8\obj\Debug\net6.0\refint\Program8.dll
+E:\C# Console Apps\Program8\obj\Debug\net6.0\Program8.pdb
+E:\C# Console Apps\Program8\obj\Debug\net6.0\Program8.genruntimeconfig.cache
+E:\C# Console Apps\Program8\obj\Debug\net6.0\ref\Program8.dll

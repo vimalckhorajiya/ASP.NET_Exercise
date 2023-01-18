@@ -1,0 +1,15 @@
+C:\Users\zeel.t\CSharpExcercise\bin\Debug\net7.0\CSharpExcercise.exe
+C:\Users\zeel.t\CSharpExcercise\bin\Debug\net7.0\CSharpExcercise.deps.json
+C:\Users\zeel.t\CSharpExcercise\bin\Debug\net7.0\CSharpExcercise.runtimeconfig.json
+C:\Users\zeel.t\CSharpExcercise\bin\Debug\net7.0\CSharpExcercise.dll
+C:\Users\zeel.t\CSharpExcercise\bin\Debug\net7.0\CSharpExcercise.pdb
+C:\Users\zeel.t\CSharpExcercise\obj\Debug\net7.0\CSharpExcercise.csproj.AssemblyReference.cache
+C:\Users\zeel.t\CSharpExcercise\obj\Debug\net7.0\CSharpExcercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeel.t\CSharpExcercise\obj\Debug\net7.0\CSharpExcercise.AssemblyInfoInputs.cache
+C:\Users\zeel.t\CSharpExcercise\obj\Debug\net7.0\CSharpExcercise.AssemblyInfo.cs
+C:\Users\zeel.t\CSharpExcercise\obj\Debug\net7.0\CSharpExcercise.csproj.CoreCompileInputs.cache
+C:\Users\zeel.t\CSharpExcercise\obj\Debug\net7.0\CSharpExcercise.dll
+C:\Users\zeel.t\CSharpExcercise\obj\Debug\net7.0\refint\CSharpExcercise.dll
+C:\Users\zeel.t\CSharpExcercise\obj\Debug\net7.0\CSharpExcercise.pdb
+C:\Users\zeel.t\CSharpExcercise\obj\Debug\net7.0\CSharpExcercise.genruntimeconfig.cache
+C:\Users\zeel.t\CSharpExcercise\obj\Debug\net7.0\ref\CSharpExcercise.dll
